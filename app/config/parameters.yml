@@ -1,0 +1,17 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: oci8
+    database_host: 198.199.65.139
+    database_port: 1521
+    database_name: XE
+    database_user: LG
+    database_password: lg123
+    mailer_transport: smtp
+    mailer_host: 10.40.165.22
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeIt
+    images_directory: '%kernel.root_dir%/../web/images/'
+    domainServer: /portabilidad/web/app_dev.php/
+    domainServerImg: /portabilidad/web/
+    domainProtocol: //
