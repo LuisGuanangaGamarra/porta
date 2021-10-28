@@ -1,6 +1,6 @@
 # This file is auto-generated during the composer install
 parameters:
-    database_driver: oci8
+    database_driver: pdo_mysql
     database_host: 198.199.65.139
     database_port: 1521
     database_name: XE
