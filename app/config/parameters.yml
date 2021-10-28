@@ -2,7 +2,7 @@
 parameters:
     database_driver: pdo_mysql
     database_host: 198.199.65.139
-    database_port: 1521
+    database_port: 3306
     database_name: XE
     database_user: LG
     database_password: lg123
