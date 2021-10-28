@@ -2,10 +2,10 @@ Dayscript\TiendaClaroBundle\Entity\StoPlan:
     type: entity
     table: sto__planes
     repositoryClass: Dayscript\TiendaClaroBundle\Entity\StoPlanRepository
-    indexes:
-        IDX_6E11C818FB0D0145:
-            columns:
-                - id_tipo
+ #   indexes:
+ #       IDX_6E11C818FB0D0145:
+#          columns:
+ #               - id_tipo
     id:
         id:
             type: integer
